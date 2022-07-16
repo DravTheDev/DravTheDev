@@ -1,5 +1,5 @@
-![MasterHead](https://media2.giphy.com/media/NKEt9elQ5cR68/giphy.gif?cid=ecf05e47iu3qnwl8ar96j7yh5w9f5hdaxrcovqv4lukd5pj1&rid=giphy.gif&ct=g)
-<h3 align="center">Discord.js dev from the U.S.</h3>
+
+<h1 align="center">Discord.js dev from the U.S.</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif">
 
 - 🔭 I’m currently working on [OtterBot](https://github.com/DravTheDev/OtterBot-Source-Code)
