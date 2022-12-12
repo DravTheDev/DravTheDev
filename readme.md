@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4500&color=07BE03&background=FFFFFF00&center=true&vCenter=true&lines=discord.js+developer;Beginner+three.js+developer;Intermediate+python+developer)](https://git.io/typing-svg)
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif">
 
-- 🔭 I’m currently working on [OtterBot](https://github.com/DravTheDev/OtterBot-Source-Code)
+- 🔭 I’m currently working on [My Portfolio](https://github.com/DravTheDev/DravTheDev.github.io)
 
-- 🌱 I’m currently learning **three.js**
+- 🌱 I’m currently learning **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DravTheDev](https://github.com/DravTheDev)
 
