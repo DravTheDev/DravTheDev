@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [**My Github Profile**](https://github.com/DravTheDev)
 
-- 📫 For business inquirys: **dravthedev@gmail.com**
+- 📫 Use [**My Email**](dravthedev@gmail.com) for messaging me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
