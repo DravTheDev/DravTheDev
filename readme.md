@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [**My Github Profile**](https://github.com/DravTheDev)
 
-- 📫 Use [**My Email**](dravthedev@gmail.com) for messaging me
+- 📫 Use [**My Email**](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=dravthedev@gmail.com) for messaging me
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
